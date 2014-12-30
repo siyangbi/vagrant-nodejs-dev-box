@@ -1,5 +1,5 @@
 ## Vagrant Nodejs Dev Box
-Vagrant dev box with chef solo provisioning
+Vagrant dev box (for mac) with chef solo provisioning
 * Ubuntu Server 14.04
 * Nodejs
 * MongoDB
