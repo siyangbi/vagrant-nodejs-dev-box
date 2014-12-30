@@ -1,0 +1,15 @@
+#!/usr/bin/env ruby
+#^syntax detection
+
+site 'https://supermarket.getchef.com/api/v1'
+
+cookbook 'nodejs',
+    :git => 'https://github.com/redguide/nodejs.git'
+
+cookbook 'java'
+
+cookbook 'elasticsearch',
+	:git => 'https://github.com/elasticsearch/cookbook-elasticsearch.git'
+
+cookbook 'mongodb'
+

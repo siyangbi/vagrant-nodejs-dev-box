@@ -1,0 +1,6 @@
+.vagrant
+cookbooks/
+tmp/
+Cheffile.lock
+.idea/
+.DS_Store
